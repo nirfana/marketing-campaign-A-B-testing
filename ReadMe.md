@@ -26,3 +26,6 @@ The dataset contains sales data from multiple store locations over a four-week p
 
 ### 🔗 Data Source
 The dataset is publicly available on Kaggle: [here](https://www.kaggle.com/datasets/chebotinaa/fast-food-marketing-campaign-ab-test/data)
+
+### Result
+The result is available to read at [here](https://www.devinirfana.my.id/project-3.html).
